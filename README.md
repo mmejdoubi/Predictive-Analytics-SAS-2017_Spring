@@ -3,7 +3,7 @@ This is Dr. Mike Grigsby's class, one of my favorite classes. Dr. Grigsby is the
 
 The source data is "tgif.sas7bdat" from a chain restaurant TGI Friday. I use LatentGold to do segmentation and get "newclus4.xlsx" which gives each customer a cluster #. The file "Porfile.xlsx" is extracted from LatentGOLD. Then I use SAS to try as many analytics as possible and summarize in the file "SAS code_result.xlsx" which is my experiment trying to do OLS regression, Logit, Poisson, price elasticity, market basket analysis (MBA), Days_btn_trans., ...etc. Each worksheet in the file is a analytic trying to find something, in each worksheet the SAS code is on the upper-left corner in orange color area. In my final presentation report "presentation.pdf", I just put some of the most important insights for the 10-minute presentation.    
 
-I also generate an E-mail strategy which Dr. Grigsby says it is beautifule and very few people can find this insight. 
+I also generate a marcomm strategy about E-mail delivery which Dr. Grigsby says it is beautifule and very few people can find this insight. 
 
 This is a group project but I was marked as a star member because all other members agreed that I made most of the analysis and found most of the insights. 
 The project is graded 95. 
